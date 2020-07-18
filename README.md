@@ -4,7 +4,7 @@ Laravel simple Todo CRUD(Create, Read, Update and Delete) application using lara
 ## Setup Guide
 Step 1: Clone this project
 ```
-git clone https://github.com/ckpanchal/laravel-crud.git
+git clone https://github.com/jimilchoksi/laravel_crud_login_registration.git
 ```
 
 Step 2: Install project dependencies using composer.
@@ -22,9 +22,9 @@ Step 4: Configure database credentials in .env file.
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=lara-crud
+DB_DATABASE=student_registration
 DB_USERNAME=root
-DB_PASSWORD=
+DB_PASSWORD=root
 ```
 
 Step 5: Run artisan migration command to migrate table.
